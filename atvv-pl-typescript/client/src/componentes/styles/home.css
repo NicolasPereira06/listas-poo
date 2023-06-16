@@ -1,0 +1,21 @@
+body {
+    overflow-y: hidden;
+}
+
+.custom-div {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.custom-container {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  
